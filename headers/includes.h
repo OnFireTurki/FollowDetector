@@ -1,0 +1,11 @@
+#pragma once
+#include <iostream>
+#include <cstdlib>
+#include <signal.h>
+#include <string>
+#include <string.h>
+#include <random>
+#include <sstream>
+#include <cpr/cpr.h>
+#include <nlohmann/json.hpp>
+#include "instagram.h"
